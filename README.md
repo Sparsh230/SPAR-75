@@ -1,55 +1,22 @@
 # SPAR-75
 A 75% keyboard 
 
+Schmetic:
+<img width="1061" height="727" alt="Screenshot 2026-11-22 154142" src="https://github.com/user-attachments/assets/5fda9feb-27ba-4a21-a692-4a497391b6fd" />
+
+Keyboard matricks:
+<img width="1240" height="612" alt="Screenshot 2026-11-22 154156" src="https://github.com/user-attachments/assets/8a662aaa-b36d-4838-ab92-9fb029306f50" />
+
+
+PCB:
+<img width="1500" height="527" alt="Screenshot 2026-11-22 154302" src="https://github.com/user-attachments/assets/695c1204-d745-46e6-8f85-c981a8fbccf0" />
+
+3D model:
+<img width="865" height="303" alt="Screenshot 2026-11-22 154357" src="https://github.com/user-attachments/assets/b66e19e8-5afd-4534-861b-83a09c0e5356" />
+
+
+Cad Model Assembly(Plateless Mount):
+<img width="1147" height="407" alt="Screenshot 2026-11-22 134712" src="https://github.com/user-attachments/assets/e5af799e-882c-4126-816a-0d22803dbe30" />
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Part,Type,Quantity,Unit price (INR),Line total (INR),Link,Vendor,Funding,Notes
-Pcb,Part,1,5648.00,5648.00,https://robu.in/product/online-pcb-manufacturing-service/,Robu,Grant,"Cheapest pcb i can find ,jlcpcb price is cheaper but shipping +imort will be expensive"
-Mechanical Switch,Part,1,2099.00,2099.00,https://stackskb.com/store/akko-creamy-yellow-u1-linear-switches-pack-of-100/,STACKS KB,Grant,mechanical Switch
-Diodes(1N4148),Part,3.09,100.00,309.00,https://robu.in/product/1n4148-onsemi-100v-1v10ma-4ns-200ma-do-35-switching-diodes-rohs/,Robu,Grant,Diodes 1n4148
-Keycap,Part,1,999.00,999.00,https://www.amazon.in/Mechanical-Keyboard-Compatible-backlight-south-facing/dp/B0HJ2HFMGP/ref=sr_1_1_sspa?crid=3T32WOTQB07RA&dib=eyJ2IjoiMSJ9.y018GKXmOae7kFjCnJ0INvev84EIy_FB4AJlvM2dOognEjszDykL37g4ElmkgnZBHf1SOFryVH3ZXBLlzkGleb4p3kE5Bo6-mD8boB83mhBrxP50fR7ffiLXemsm5q3qRbT1m1l0ZAQNSoja2lOpYaOFxaWy_RcvH8SdXdu_dyD11BRs-txNOiWv94B7Gr233yCXbO08icXYYptx7nwPzKaSeEd7nWsn9oNKWfHTW9E.LZXz7iGDvDYlkHbjo2ReYjkr_9_zVlSvWpPVWOr399w&dib_tag=se&keywords=keycap+set&qid=1795340857&sprefix=keycap+se%2Caps%2C299&sr=8-1-spons&aref=ZfJuGAJuNI&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1,Amazon,Grant,Keycap for the switches
-Spool,Part,1,849.00,849.00,https://www.amazon.in/Numakers-Translucent-Filament-Semi-Clear-Durability/dp/B0GSS37LWW/ref=sr_1_20?dib=eyJ2IjoiMSJ9.-zKmawTy4ybRBirI72KWNfqv7AZdhqh0KTeXXJHOJrEko--EYR1pqMVPcSrbN2-KTDqZBnHkgB6Gt5hFU7a01dONf-xDDAFb67YAzw7TdedxkfFgQVN64Jd1hG-SalbxvWfiiy65AtwjmC1UIYoV0-e-ArjQLIOUAtxOuUd6Bz-tuakXcZ5e_b3vsEMl_5VKmfjtBPSKjor6sHk8qdJwpP2rvfm_C2WeBRFJ6LX59Z2ptVcgvilIUvnduArQp6TMTn7Zk93lOZZ86oTSjAvPsQa29bXSZielARO7WwbTK2g.Rdoe1yR2K0xS00Gzy2MRWgBeumI_9QPEQSlS3v1uQuI&dib_tag=se&keywords=3d%2Bfilament%2Bpetg&qid=1795340998&sr=8-20&th=1,Amazon,Grant,i have 3d printer
-Total,,,,9904.00,,,,
